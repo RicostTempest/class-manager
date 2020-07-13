@@ -15,7 +15,7 @@ public class DataBaseRoad {
         //URL指向要访问的数据库名mydata
         String url = "jdbc:mysql://localhost:3306/class_manage";
         //MySQL配置时的用户名
-        String user = "ricost";
+        String user = "root";
         //MySQL配置时的密码
         String password = "1722110122";
         //遍历查询结果集
